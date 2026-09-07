@@ -1,0 +1,1 @@
+# ikuai-rules-direct
